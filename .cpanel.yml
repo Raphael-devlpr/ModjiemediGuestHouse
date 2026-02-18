@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/voidtech/public_html/
-    - /bin/cp -R "Modjiemedi Guest House"/* $DEPLOYPATH
+    - /bin/cp -R * $DEPLOYPATH
